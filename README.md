@@ -1,5 +1,5 @@
 # LearningAndResponse
-#github协作过程
+github协作过程
 1.git pull origin master,修改代码
 2.git checkout -b newbranch
 3.git add,  git commit -m
