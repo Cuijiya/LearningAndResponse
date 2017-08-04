@@ -9,5 +9,5 @@ github协作过程
 7.git rebase master
 8.解决冲突，git push origin newbranch
 9.pull request,审核,merge
-10.删除远程仓库newbranch
+10.git push origin:newbranch
 11.git branch -D newbranch
